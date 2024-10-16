@@ -7,10 +7,10 @@ The final goal for this project was to extend this model's application to indivi
 
 My process consisted of: 
   Exploratory data analysis
-  Standard scaling
-  MLP model
-  Neural network
-  Model evaluation
+  , standard scaling
+  , MLP model
+  , neural network
+  , model evaluation. 
 The MLP (based on the papers linked below) and feedforward neural network reached around 94% and 97% accuracies for each model respectively. 
 
 Dataset: 
